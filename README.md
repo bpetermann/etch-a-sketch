@@ -1,4 +1,4 @@
-This is Bente's fourth git project!
+This is Bente's fourth project!
 
 Assignment:
 A browser version of something between a sketchpad and an Etch-A-Sketch.
