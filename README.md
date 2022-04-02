@@ -1,5 +1,10 @@
-Assignment:
-A browser version of something between a sketchpad and an Etch-A-Sketch.
+# Etch-a-Sketch
 
-Coming from: [theodinproject](https://www.theodinproject.com)<br>
-View Live: [here](https://bpetermann.github.io/etch-a-sketch/)
+## Project Overview
+
+### Description
+- A browser version of something between a sketchpad and an Etch-A-Sketch
+- [View Live](https://bpetermann.github.io/etch-a-sketch/)
+
+### Thanks
+- [theodinproject](https://www.theodinproject.com)<br>
